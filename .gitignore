@@ -1,0 +1,6 @@
+include/cv_challenge/config.h
+CMakeLists.txt.user
+build
+images
+labels
+masked
